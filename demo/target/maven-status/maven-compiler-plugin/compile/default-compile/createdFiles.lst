@@ -1,0 +1,9 @@
+com\example\AuctionAdmin.class
+com\example\AuctionClient.class
+com\example\AuctionItem.class
+com\example\App.class
+com\example\AuctionController.class
+com\example\AuctionServer.class
+com\example\ClientThread.class
+com\example\Auction.class
+com\example\AuctionNotification.class
